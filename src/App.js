@@ -11,7 +11,7 @@ class App extends Component {
   //     ["PE", 67]],
   // }
   data: [
-    ["IND", 75], ["CHN", 43]
+    ["IND", 100], ["CHN", 43]
   ],
 }
   render() {
